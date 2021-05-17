@@ -166,7 +166,7 @@ nav img {
   padding: 0%;
 }
 .meal-text {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
