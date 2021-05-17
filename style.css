@@ -380,9 +380,9 @@ footer ul {
   .column4 {
     width: 100%;
   }
-  .section2 .meal1 {
-    /* margin-top: -200px; */
-  }
+  /* .section2 .meal1 {
+    /* margin-top: -200px;} */
+
   .section1 {
     flex-direction: column;
   }
