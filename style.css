@@ -291,7 +291,6 @@ footer ul {
     justify-content: center;
     width: 100%;
     font-size: 1.6rem;
-    /* margin-left: 120px; */
   }
   .mob-btn {
     display: block;
@@ -377,24 +376,12 @@ footer ul {
   display: none;
 }
 
-/* @media screen and (max-width: 1200px) {
-   .section3 {
-    margin: 0 50px;
-  } 
-  .lines-h {
-    flex-direction: column;
-  }
-   .section1 {
-    flex-direction: column;
-  } 
-  .cluster1 img {
-    max-width: 700px;
-  }
-}  */
-
 @media screen and (max-width: 640px) {
   .column4 {
     width: 100%;
+  }
+  .section2 .meal1 {
+    margin-top: -200px;
   }
   .section1 {
     flex-direction: column;
@@ -408,9 +395,7 @@ footer ul {
   .too-bold {
     font-size: 3.2rem;
   }
-  .meal1 {
-    padding-top: 50px;
-  }
+
   nav {
     padding: 30px;
   }
