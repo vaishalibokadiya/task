@@ -415,6 +415,9 @@ footer ul {
   }
   .text-last {
     font-size: 1.4rem;
+    margin: 0;
+    padding: 0%;
+    text-align: center;
   }
   .too-bold {
     font-size: 3.2rem;
@@ -426,7 +429,10 @@ footer ul {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     font-size: 1.6rem;
+    margin: 0;
+    padding: 0%;
     text-align: center;
   }
   .icons img {
@@ -484,4 +490,7 @@ footer ul {
   .section1 .cluster1 picture img {
     margin: 50px 0;
   }
+}
+
+@media screen and (min-width: 1200px) {
 }
