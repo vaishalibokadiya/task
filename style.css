@@ -415,8 +415,8 @@ footer ul {
   }
   .text-last {
     font-size: 1.4rem;
-    margin: 0;
-    padding: 0%;
+    /* margin: 0; */
+    /* padding: 0%; */
     text-align: center;
   }
   .too-bold {
