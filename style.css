@@ -381,15 +381,15 @@ footer ul {
     width: 100%;
   }
   .section2 .meal1 {
-    margin-top: -200px;
+    /* margin-top: -200px; */
   }
   .section1 {
     flex-direction: column;
   }
   .text-last {
     font-size: 1.4rem;
-    /* margin: 0; */
-    /* padding: 0%; */
+    margin: 0;
+    padding: 0%;
     text-align: center;
   }
   .too-bold {
