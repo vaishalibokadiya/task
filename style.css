@@ -431,8 +431,8 @@ footer ul {
     justify-content: center;
     align-items: center;
     font-size: 1.6rem;
-    margin: 0;
-    padding: 0%;
+    /* margin: 0; */
+    /* padding: 0%; */
     text-align: center;
   }
   .icons img {
